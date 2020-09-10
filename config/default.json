@@ -1,0 +1,6 @@
+{
+  "HOST": "localhost",
+  "USER": "root",
+  "PASSWORD": "mysqladmin",
+  "DATA_BASE": "contact-keeper"
+}
